@@ -1,0 +1,19 @@
+{
+  "name": "cz-cli-test",
+  "version": "1.0.0",
+  "description": "a repo of test cz-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kerinlin/cz-cli-test.git"
+  },
+  "author": "oyc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kerinlin/cz-cli-test/issues"
+  },
+  "homepage": "https://github.com/Kerinlin/cz-cli-test#readme"
+}
